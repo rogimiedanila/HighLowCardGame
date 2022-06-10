@@ -7,8 +7,7 @@ Mina-san konnichiwa! This is an web and mobile application.
 For the mobile, I don't have an Android Emulator because the application is
 too heavy and my laptop can't handle it, which causes a lagging operation.
 
-But I have an alternate way, which is to make an apk. You can locate it here
-"highlowcardgame_pec01act7\build\app\outputs\flutter-apk\HighLowCardGame.apk"
+But I have an alternate way, which is to make an apk.
 
 You can modify this code for your future/project purposes. Arigatogozaimashita!
 
